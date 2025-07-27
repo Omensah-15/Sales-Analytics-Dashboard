@@ -4,7 +4,8 @@
 
 This Power BI dashboard provides a full analytical overview of product sales, customer profitability, and transaction trends across time dimensions (daily, weekly, and monthly). It helps identify top-performing products, key customers, and temporal patterns in purchasing behavior. The goal is to support strategic business decisions through clear and data-driven insights.
 
-
+## Dashboard Overview
+![image alt](
 
 ---
 
